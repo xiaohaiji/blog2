@@ -123,7 +123,7 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "Beautiful Mizuki!", // 主页横幅主标题
+			title: "欢迎到来!", // 主页横幅主标题
 
 			subtitle: [
 				"A Showcase Demo Site",
