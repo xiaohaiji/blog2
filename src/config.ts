@@ -50,7 +50,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	bangumi: {
-		userId: "your-bangumi-934950", // 在此处设置你的Bangumi用户ID，可以设置为 "sai" 测试
+		userId: "934950", // 在此处设置你的Bangumi用户ID，可以设置为 "sai" 测试
 	},
 
 	anime: {
@@ -296,7 +296,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Discord",
 			icon: "fa6-brands:discord",
-			url: "https://discord.gg/MqW6TcQtVM",
+			url: "https://discord.com/users/1176161923461554207",
 		},
 	],
 };
