@@ -46,15 +46,15 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Riyusoraのblog",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/tou.jpg",
+		icon: "",
 	},
 
 	bangumi: {
-		userId: "your-bangumi-id", // 在此处设置你的Bangumi用户ID，可以设置为 "sai" 测试
+		userId: "934950", // 在此处设置你的Bangumi用户ID，可以设置为 "sai" 测试
 	},
 
 	anime: {
-		mode: "local", // 番剧页面模式："bangumi" 使用Bangumi API，"local" 使用本地配置
+		mode: "bangumi", // 番剧页面模式："bangumi" 使用Bangumi API，"local" 使用本地配置
 	},
 
 	// 文章列表布局配置
@@ -500,8 +500,8 @@ export const pioConfig: import("./types/config").PioConfig = {
 			"你吃饭了吗?",
 		], // 触摸提示
 		home: "点这回到首页!", // 首页提示
-		skin: ["Want to see my new outfit?", "The new outfit looks great~"], // 换装提示
-		close: "QWQ See you next time~", // 关闭提示
+		skin: ["想要看我变装吗~"], // 换装提示
+		close: "QWQ 下次再见", // 关闭提示
 		link: "", // 关于链接
 	},
 };
