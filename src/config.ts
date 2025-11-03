@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Riyusoraのblog",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "public/assets/home/home.png",
+		icon: "/public/assets/home/home.png",
 	},
 
 	bangumi: {
@@ -121,7 +121,7 @@ export const siteConfig: SiteConfig = {
 			title: "欢迎到来!", // 主页横幅主标题
 
 			subtitle: [
-				"A Showcase Demo Site",
+				"ようこそへ~my page",
 				"Carousel Highlight: Innovation",
 				"Carousel Focus: User Experience",
 				"Carousel Spot: Core Advantages",
