@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Riyusoraのblog",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/tou.jpg",
+		icon: "public/assets/home/home.png",
 	},
 
 	bangumi: {
