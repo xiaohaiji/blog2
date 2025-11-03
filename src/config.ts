@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Riyusoraのblog",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "/public/assets/home/home.png",
+		icon: "https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/home.png",
 	},
 
 	bangumi: {
@@ -122,9 +122,7 @@ export const siteConfig: SiteConfig = {
 
 			subtitle: [
 				"ようこそへ~my page",
-				"Carousel Highlight: Innovation",
-				"Carousel Focus: User Experience",
-				"Carousel Spot: Core Advantages",
+				"祈祷明天对你来说，也是美好的一天",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
