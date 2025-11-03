@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Riyusoraのblog",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "blog2/public/assets/home/home.png",
+		icon: "/public/assets/home/home.png",
 	},
 
 	bangumi: {
@@ -223,7 +223,7 @@ export const navBarConfig: NavBarConfig = {
 				},
 				{
 					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
+					url: "https://space.bilibili.com/305880985",
 					external: true,
 					icon: "fa6-brands:bilibili",
 				},
@@ -286,7 +286,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
+			url: "https://space.bilibili.com/305880985",
 		},
 		{
 			name: "GitHub",
