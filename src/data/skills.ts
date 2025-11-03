@@ -28,7 +28,7 @@ export const skillsData: Skill[] = [
 		category: "frontend",
 		level: "beginner",
 		experience: { years: 0, months: 6 },
-		projects: ["mizuki-blog", "portfolio-website", "data-visualization-tool"],
+		projects: [""],
 		color: "#F7DF1E",
 	},
 
@@ -37,12 +37,12 @@ export const skillsData: Skill[] = [
 		id: "nodejs",
 		name: "Node.js",
 		description:
-			"A JavaScript runtime based on Chrome V8 engine, used for server-side development.",
+			"基于 Chrome V8 引擎的 JavaScript 运行环境，用于服务器端开发",
 		icon: "logos:nodejs-icon",
 		category: "backend",
 		level: "beginner",
 		experience: { years: 0, months: 3 },
-		projects: ["data-visualization-tool", "e-commerce-platform"],
+		projects: [""],
 		color: "#339933",
 	},
 
@@ -51,13 +51,13 @@ export const skillsData: Skill[] = [
 		id: "mysql",
 		name: "MySQL",
 		description:
-			"The world's most popular open-source relational database management system, widely used in web applications.",
+			"世界上最流行的开源关系型数据库管理系统，广泛应用于网页应用程序中。",
 		icon: "logos:mysql-icon",
 		category: "database",
 		level: "intermediate",
 		experience: { years: 1, months: 6 },
-		projects: ["e-commerce-platform", "blog-system"],
-		color: "#4479A1",
+		projects: [""],
+		color: "#de20c1ff",
 	},
 
 	// Tools
@@ -65,7 +65,7 @@ export const skillsData: Skill[] = [
 		id: "vscode",
 		name: "VS Code",
 		description:
-			"A lightweight but powerful code editor with a rich plugin ecosystem.",
+			"好用的轻量化编辑器",
 		icon: "logos:visual-studio-code",
 		category: "tools",
 		level: "intermediate",
@@ -83,7 +83,7 @@ export const skillsData: Skill[] = [
 		category: "other",
 		level: "expert",
 		experience: { years: 3, months: 6 },
-		color: "#E10098",
+		color: "#ee1212ff",
 	},
 ];
 
