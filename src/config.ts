@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Riyusoraのblog",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/home.png",
+		icon: "blog2/public/assets/home/home.png",
 	},
 
 	bangumi: {
@@ -217,7 +217,7 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/matsuzaka-yuki/Mizuki",
+					url: "https://github.com/xiaohaiji",
 					external: true,
 					icon: "fa6-brands:github",
 				},
@@ -226,12 +226,6 @@ export const navBarConfig: NavBarConfig = {
 					url: "https://space.bilibili.com/701864046",
 					external: true,
 					icon: "fa6-brands:bilibili",
-				},
-				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git",
 				},
 			],
 		},
@@ -503,15 +497,12 @@ export const pioConfig: import("./types/config").PioConfig = {
 	dialog: {
 		welcome: "ようこそ~", // 欢迎词
 		touch: [
-			"What are you doing?",
-			"Stop touching me!",
-			"HENTAI!",
-			"Don't bully me like that!",
+			"你吃饭了吗?",
 		], // 触摸提示
-		home: "Click here to go back to homepage!", // 首页提示
+		home: "点这回到首页!", // 首页提示
 		skin: ["Want to see my new outfit?", "The new outfit looks great~"], // 换装提示
 		close: "QWQ See you next time~", // 关闭提示
-		link: "https://github.com/matsuzaka-yuki/Mizuki", // 关于链接
+		link: "", // 关于链接
 	},
 };
 
