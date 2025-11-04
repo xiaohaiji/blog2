@@ -20,21 +20,21 @@ export interface Project {
 
 export const projectsData: Project[] = [
 	{
-		id: "xiaohaij",
-		title: "测试",
+		id: "Riyusora",
+		title: "GalGame推荐计划",
 		description:
-			"这是一个功能测试",
+			"推荐一百部galgame，应该日更（大概)",
 		image: "",
-		category: "web",
-		techStack: ["Astro", "TypeScript", "Tailwind CSS", "Svelte"],
+		category: "other",
+		techStack: ["writing"],
 		status: "completed",
 		liveDemo: "",
 		sourceCode: "", // 更改为GitHub链接
 		visitUrl: "", // 添加前往项目链接
-		startDate: "2024-01-01",
-		endDate: "2024-06-01",
+		startDate: "2025-11-04",
+		endDate: "2025-11-04",
 		featured: true,
-		tags: ["Blog", "Theme", "Open Source"],
+		tags: ["Blog", "GalGame"],
 	},
 ];
 
