@@ -9,7 +9,7 @@ licenseName: "Unlicensed"
 author: Riyusora
 draft: false
 date: 2025-11-04
-image: 'https://upload.wikimedia.org/wikipedia/zh/3/33/%E3%82%B5%E3%83%8E%E3%83%90%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81.jpg'
+image: './sabbat of the witch.jpg'
 pubDate: 2025-11-04
 ---
 
