@@ -11,7 +11,6 @@ draft: false
 date: 2025-11-04
 image:
   url: './sabbat of the witch'
-  alt: '文章封面'
 pubDate: 2025-11-04
 ---
 # 百部Galgame推荐计划001
