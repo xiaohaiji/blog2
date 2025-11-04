@@ -10,9 +10,11 @@ author: Riyusora
 draft: false
 date: 2025-11-04
 image:
-  url: './sabbat of the witch'
+  url: 'https://upload.wikimedia.org/wikipedia/zh/3/33/%E3%82%B5%E3%83%8E%E3%83%90%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81.jpg'
+  alt: '文章封面'
 pubDate: 2025-11-04
 ---
+
 # 百部Galgame推荐计划001
 
 本系列主要用于我对于迄今为止玩过的各种作品进行梳理与总结
