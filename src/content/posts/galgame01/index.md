@@ -1,0 +1,33 @@
+---
+title: 百部GalGame推荐计划
+published: galgame01
+pinned: true
+description: A simple example of a Markdown blog post.
+tags: [Galgame, 柚子社, 推荐]
+category: Examples
+licenseName: "Unlicensed"
+author: Riyusora
+draft: false
+date: 2025-11-04
+image:
+  url: './cover.jpg'
+  alt: '文章封面'
+pubDate: 2025-01-20
+---
+# 百部Galgame推荐计划001
+
+本系列主要用于我对于迄今为止玩过的各种作品进行梳理与总结
+其中所提及的作品有且仅有一个要求，那便是我所喜爱的作品
+文章将不会聚焦于对于作品的分析和解读上面
+而是完全以一个玩家视角出发，游戏的好玩与否才是判断的基准
+如果你闲来无事愿意阅读这些文章
+愿你也可收获纯粹的泪水与感动
+
+## 魔女的夜宴
+
+![魔女的夜宴](https://upload.wikimedia.org/wikipedia/zh/3/33/%E3%82%B5%E3%83%8E%E3%83%90%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81.jpg)
+
+我对于柚子社其实并无任何深厚的感情，他既不是我进入这一游戏领域的引路人，也没有什么
+令人记忆尤其深刻的作品，但如果要我向一个完全的新人去推荐GalGame这一品类游戏的话
+柚子社仍旧会是我的第一选择项，你不必去谈什么剧本结构，内涵解析，柚子社的作品已常见于
+各大媒体之上，这些流量赋予了这个作品一个优势，也即话题度
