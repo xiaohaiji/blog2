@@ -7,6 +7,7 @@ tags: [Galgame, 柚子社, 推荐]
 category: GalGame
 licenseName: "Unlicensed"
 author: Riyusora
+sourceLink: "https://blog2-8s2.pages.dev/posts/galgame01/"
 draft: false
 date: 2025-11-04
 image: './sabbat of the witch.jpg'
