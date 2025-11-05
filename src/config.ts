@@ -82,14 +82,10 @@ export const siteConfig: SiteConfig = {
 				"https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/s1.png",
 			], // 桌面横幅图片
 			mobile: [
-				"/assets/mobile-banner/m1.webp",
-				"/assets/mobile-banner/m2.webp",
-				"/assets/mobile-banner/m3.webp",
-				"/assets/mobile-banner/m4.webp",
-				"/assets/mobile-banner/m5.webp",
-				"/assets/mobile-banner/m6.webp",
-				"/assets/mobile-banner/m7.webp",
-				"/assets/mobile-banner/m8.webp",
+				"https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/smart01.jpg",
+				"https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/smart02.png",
+				"https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/smart03.png",
+				"https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/smart04.png",
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
@@ -185,14 +181,10 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 			"https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/s3.jpg",
 		], // 桌面横幅图片
 		mobile: [
-			"/assets/mobile-banner/m1.webp",
-			"/assets/mobile-banner/m2.webp",
-			"/assets/mobile-banner/m3.webp",
-			"/assets/mobile-banner/m4.webp",
-			"/assets/mobile-banner/m5.webp",
-			"/assets/mobile-banner/m6.webp",
-			"/assets/mobile-banner/m7.webp",
-			"/assets/mobile-banner/m8.webp",
+			"https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/smart01.jpg",
+			"https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/smart02.png",
+			"https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/smart03.pngp",
+			"https://pub-22e3b7b39a58471bba44675b59d1af70.r2.dev/smart04.png",
 		], // 移动横幅图片
 	}, // 使用本地横幅图片
 	position: "center", // 壁纸位置，等同于 object-position
