@@ -9,7 +9,7 @@ licenseName: "Unlicensed"
 author: Riyusora
 draft: false
 date: 2025-11-05
-image: './LOVE 0'
+image: './love02.jpg'
 pubDate: 2025-11-05
 ---
 
@@ -21,7 +21,7 @@ pubDate: 2025-11-05
 那么今天推荐的也是另外一家公司  
 颜艺社十分重要的一部作品  
 
-![恋爱0公里](LOVE 0.jpg)
+![恋爱0公里](love0.jpg)
 
 ## 恋爱0公里
 “从家门到恋爱的距离，究竟有多远？”
