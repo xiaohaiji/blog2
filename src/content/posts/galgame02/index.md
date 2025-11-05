@@ -7,6 +7,7 @@ tags: [Galgame, 颜艺社, 推荐]
 category: GalGame
 licenseName: "Unlicensed"
 author: Riyusora
+sourceLink: "https://blog2-8s2.pages.dev/posts/galgame02/"
 draft: false
 date: 2025-11-05
 image: './love02.jpg'
@@ -15,10 +16,10 @@ pubDate: 2025-11-05
 
 # 百部Galgame推荐计划002
 
-如果昨天是平淡日常加点欺负的轻柔微风  
+如果昨天是平淡日常加点舒服的轻柔微风  
 那今天不妨来点甜蜜的蛋糕  
-如果说昨天的作品是柚子社最优秀的作品  
-那么今天推荐的也是另外一家公司  
+也许昨天的作品是柚子社最优秀的作品  
+那么今天推荐的也是另外一家著名的GalGame公司  
 颜艺社十分重要的一部作品  
 
 ![恋爱0公里](love0.jpg)
