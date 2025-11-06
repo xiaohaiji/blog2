@@ -3,7 +3,7 @@ title: 百部GalGame推荐计划
 published: 2025-11-06
 pinned: true
 description: galgame推荐03
-tags: [Galgame, 颜艺社, 推荐]
+tags: [Galgame, 恐怖, 推荐]
 category: GalGame
 licenseName: "Unlicensed"
 author: Riyusora
@@ -24,7 +24,7 @@ pubDate: 2025-11-06
 
 ## 寒蝉鸣泣之时
 
-欢迎来到雾气缭绕的白川乡。
+欢迎来到雾气缭绕的雏见泽。
 在这片看似平和宁静的乡村里，流淌着的并非只有夏日蝉鸣的安宁。  
 《寒蝉鸣泣之时》（ひぐらしのなく頃に）是一部让日常与疯狂共存的作品，  
 它用最平凡的村落风景，织出最扭曲的人性悲剧。  
