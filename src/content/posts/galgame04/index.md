@@ -2,7 +2,7 @@
 title: 百部GalGame推荐计划
 published: 2025-11-07
 pinned: true
-description: galgame推荐03
+description: galgame推荐04
 tags: [Galgame, 音乐, 推荐]
 category: GalGame
 licenseName: "Unlicensed"
